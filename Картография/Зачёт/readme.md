@@ -79,3 +79,7 @@ _(на картинке вместо с ссылок на гугл-диск сс
 
 ![image](https://github.com/user-attachments/assets/89097ba8-6b59-40c0-94e1-7c0746849181)
 
+## Не забудьте открыть карту для просмотра! 
+
+![image](https://github.com/user-attachments/assets/b6f946bd-6a1e-45bd-a643-97c04f3a605c)
+
