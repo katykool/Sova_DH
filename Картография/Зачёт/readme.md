@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/5fb7febf-e1e6-4412-b2ea-da78406b821b)
 
 Скопированная ссылка будет выглядеть так: 
-`https://drive.google.com/file/d/filename/**view?usp=sharing**`
+`https://drive.google.com/file/d/filename/view?usp=sharing`
 
 Замените `view?usp=sharing` на `preview`
 
